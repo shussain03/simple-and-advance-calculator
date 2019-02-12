@@ -1,0 +1,7 @@
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\bin\Debug\csharp operator and shape calculator.exe.config
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\bin\Debug\csharp operator and shape calculator.exe
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\bin\Debug\csharp operator and shape calculator.pdb
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\obj\Debug\csharp operator and shape calculator.csprojAssemblyReference.cache
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\obj\Debug\csharp operator and shape calculator.csproj.CoreCompileInputs.cache
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\obj\Debug\csharp operator and shape calculator.exe
+C:\Users\tech-w46a.LAPTOP-L5H04E7E\source\repos\day2\csharp operator and shape calculator\csharp operator and shape calculator\obj\Debug\csharp operator and shape calculator.pdb
